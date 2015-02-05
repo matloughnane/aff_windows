@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.matloughnane.arranmoreff" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Fast Ferry</name>
+    <description>
+        The Arranmore Fast Ferry app, the fastest way to get all the latest ferry times.
+    </description>
+    <author email="mat.loughnane@gmail.com" href="www.matloughnane.com">
+        Mat Loughnane
+    </author>
+    <content src="index.html" />
+    <!-- <access origin="*" /> -->
+    <access origin="tel:*" launch-external="yes"/>
+    <access origin="*" />
+
+    <feature name="NetworkStatus">
+    	<param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+	</feature>
+    
+    <icon src="res/arranmoreff_icon.png" />
+<!--     <platform name="android">
+              <icon src="res/android/ldpi.png" density="ldpi" />
+              <icon src="res/android/mdpi.png" density="mdpi" />
+              <icon src="res/android/hdpi.png" density="hdpi" />
+              <icon src="res/android/xhdpi.png" density="xhdpi" />
+     </platform> -->
+
+</widget>

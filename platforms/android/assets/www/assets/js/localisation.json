@@ -1,0 +1,97 @@
+{
+    "en": {
+        "sidepanel_title_dashboard": "Dashboard",
+        "sidepanel_title_timetables": "Timetables",
+        "sidepanel_title_changes": "Changes",
+        "sidepanel_title_datepick": "Date Picker",
+        "sidepanel_title_contact": "Contact Us",
+        "sidepanel_title_settings": "Settings",
+
+        "actionbar_title_dashboard": "Dashboard",
+        "actionbar_title_timetables": "Timetables",
+        "actionbar_title_changes": "Changes",
+        "actionbar_title_datepick": "Date Picker",
+        "actionbar_title_contact": "Contact Us",
+        "actionbar_title_settings": "Settings",
+
+        "loading_next_ferry_text_da": "Loading next ferry time...",
+        "loading_next_ferry_text_db": "Loading next ferry time...",
+        "loading_timetable_da_summer": "Loading timetable...",
+        "loading_timetable_db_summer": "Loading timetable...",
+        "loading_timetable_da_winter": "Loading timetable...",
+        "loading_timetable_db_winter": "Loading timetable...",
+        "loading_cancel_da": "Loading cancelled ferries...",
+        "loading_cancel_db": "Loading cancelled ferries...",
+        "loading_extra_da": "Loading extra ferries...",
+        "loading_extra_db": "Loading extra ferries...",
+
+        "next_ferry_da_title": "Next Ferry Departing Arranmore is at:",
+        "next_ferry_db_title": "Next Ferry Departing Burtonport is at:",
+        "todays_timetable_title": "Today's timetable (including extra ferries, excluding cancellations):",
+        "contact_number_message": "Call to book a ticket:",
+
+        "summer_timetable_table": "Summer timetables:",
+        "winter_timetable_table": "Winter timetables:",
+
+        "changes_offline_image": "Uh Oh Image!",
+        "changes_offline_message": "You are currently offline, you'll need an internet connection to get the latest information about cancellations / extra ferries - or give us a call!",
+        "upcoming_cancelled_ferries_title": "Upcoming Cancelled Ferries:",
+        "upcoming_extra_ferries_title": "Upcoming Extra Ferries:",
+
+        "date_pick_text": "Choose a date and we'll display the scheduled ferries for that day:",
+        "date_pick_button": "Show me the ferries!",
+
+        "contact_us_title": "Contact Us:",
+        "share_us_title": "Share Us:",
+
+        "save_button": "Save Settings"
+
+    },
+    "ire": {
+        "sidepanel_title_dashboard": "Baile",
+        "sidepanel_title_timetables": "Amchláir",
+        "sidepanel_title_changes": "Athruithe",
+        "sidepanel_title_datepick": "Roghnaigh Dáta",
+        "sidepanel_title_contact": "Déan Teagmháil Linn",
+        "sidepanel_title_settings": "Socruithe",
+
+        "actionbar_title_dashboard": "Baile",
+        "actionbar_title_timetables": "Amchláir",
+        "actionbar_title_changes": "Athruithe",
+        "actionbar_title_datepick": "Roghnaigh Dáta",
+        "actionbar_title_contact": "Déan Teagmháil Linn",
+        "actionbar_title_settings": "Socruithe",
+
+        "loading_next_ferry_text_da": "Loading next ferry time...",
+        "loading_next_ferry_text_db": "Loading next ferry time...",
+        "loading_timetable_da_summer": "Loading timetable...",
+        "loading_timetable_db_summer": "Loading timetable...",
+        "loading_timetable_da_winter": "Loading timetable...",
+        "loading_timetable_db_winter": "Loading timetable...",
+        "loading_cancel_da": "Loading cancelled ferries...",
+        "loading_cancel_db": "Loading cancelled ferries...",
+        "loading_extra_da": "Loading extra ferries...",
+        "loading_extra_db": "Loading extra ferries...",
+
+        "next_ferry_da_title": "Is Fágáil Next Árainn Mhór Ferry ag:",
+        "next_ferry_db_title": "Tá Next Ferry Burtonport Ag imeacht ar :",
+        "todays_timetable_title": "Amchlár an lae inniu (lena n-áirítear báid farantóireachta breise , gan cealuithe):",
+        "contact_number_message": "Call a chur in áirithe ticéad:",
+
+        "summer_timetable_table": "Amchláir samhraidh:",
+        "winter_timetable_table": "Amchláir gheimhridh:",
+
+        "changes_offline_image": "Uh Oh Íomhá!",
+        "changes_offline_message": "Tá tú as líne faoi láthair , beidh ort nasc idirlín a fháil ar an eolas is déanaí faoi cealuithe / báid farantóireachta breise - nó a thabhairt dúinn glaoch!",
+        "upcoming_cancelled_ferries_title": "Ferries Cealaithe ag Teacht:",
+        "upcoming_extra_ferries_title": "Ferries Breise atá le teacht:",
+
+        "date_pick_text": "Roghnaigh dáta agus beidh muid ag taispeáint na báid farantóireachta sceidealta le haghaidh an lá sin:",
+        "date_pick_button": "Taispeáin dom na báid farantóireachta!",
+
+        "contact_us_title": "Déan Teagmháil Linn:",
+        "share_us_title": "Comhroinn Linn:",
+
+        "save_button": "Socruithe Sábháil"
+    }
+}

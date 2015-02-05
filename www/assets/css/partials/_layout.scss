@@ -1,0 +1,193 @@
+body {
+	font-family: "Roboto";
+	margin: 0px;
+	font-size: 100%;
+	color: $bkg_dark;
+	background: $bkg_light;
+	&.first_time {
+		background: $orange_light;
+		color: $bkg_light;
+	}
+}
+::selection {
+  background: $blue;
+}
+
+::-moz-selection {
+  background: $blue; 
+}
+
+a {
+  color: $black;
+  text-decoration: none;
+}
+
+rect {
+	fill: $bkg_light;
+}
+
+.blue_rect {
+	fill: $blue !important;	
+}
+
+.orange_rect {
+	fill: $orange_dull !important;	
+}
+
+// MATERIAL
+
+.card {
+	border-radius: $border-radius;
+	margin-bottom: 15px;
+}
+
+.plain {
+	background: $bkg_light;
+	color: $bkg_dark;
+}
+.blue {
+	background: $blue;
+	color: $bkg_light;
+}
+.orange {
+	background: $orange;
+	color: $bkg_light;
+}
+
+.red {
+	background: $red;	
+	color: $bkg_light;
+}
+
+.light_red {
+	background: $red_light;	
+}
+
+.light_green {
+	background-color: $green_light;
+}
+
+.card_noBottom {
+	border-radius: $border-radius;
+	margin-bottom: 0px;
+}
+
+.btn_blue {
+	background-color: $blue !important;
+	color: $bkg_light !important;
+}
+
+.btn_orange {
+	background-color: $orange !important;
+	color: $bkg_light !important;
+}
+
+.btn_large {
+	font-size: 1.2em !important;
+}
+
+.shadow1 {
+	box-shadow: $shadow1;;
+}
+.shadow2 {
+	box-shadow: $shadow2;;
+}
+.shadow3 {
+	box-shadow: $shadow3;;
+}
+.shadow4 {
+	box-shadow: $shadow4;;
+}
+.shadow5 {
+	box-shadow: $shadow5;;
+}
+
+
+// APP SPECFIC
+
+.left_half {
+	padding-right: 5px;
+}
+
+.right_half {
+	padding-left: 5px;
+}
+
+.padded {
+	padding: 0px 8px;
+}
+
+.tferry_time {
+	display: block;
+	padding: 10px;
+	font-size: 2em;
+}
+
+#static_timetable {
+	display: none;
+
+}
+
+.tferry_table_title {
+	display: block;
+	padding: 5px;
+	font-size: 1em;
+}
+
+.settings_title {
+	display: block;
+	font-weight: 600;
+	padding: 5px;
+	font-size: 1em;
+}
+
+.loading_text {
+	font-size: 0.4em;
+}
+
+.blue_text {
+	color: $blue_dull;
+	font-size: 0.9em !important;
+}
+
+.orange_text {
+	color: $orange_dull;
+	font-size: 0.9em !important;
+}
+
+.settings_text {
+	padding: 5px;
+	margin-left: 14px;
+	font-size: 1em;
+}
+
+.margin_small {
+	margin: 5px;
+}
+
+.margin_left {
+	margin-left: 10px;
+}
+
+.margin_right {
+	margin-right: 10px;
+}
+
+.important_text {
+	font-size: 1.5em;
+	font-weight: 700;
+}
+
+.date_text {
+	font-size: 0.8em;
+	color: $grey_light;
+}
+
+img {
+	max-width: 100%;
+	&.first_time_logo {
+		width: 60%;
+		margin-top: 10px;
+		// margin-left: auto;
+	}
+}

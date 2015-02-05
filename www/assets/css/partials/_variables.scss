@@ -1,0 +1,69 @@
+// ALL COLOURS
+// http://www.google.co.uk/design/spec/style/color.html#color-color-palette
+
+// WHITE
+$white: #FFFFFF;
+$black: #000000;
+
+// GREY
+// GREY 100
+$bkg_light: #F5F5F5;
+// GREY 800
+$bkg_dark: #424242;
+// GREY 300
+$grey_light: #9E9E9E;
+
+// SEMI TRANSPARENT GREY
+$bkg_overlay: rgba(0, 0, 0, 0.3);
+
+// LIGHT BLUE
+// LIGHT BLUE 500
+$blue: #03A9F4;
+// LIGHT BLUE 200
+$blue_light: #81D4FA;
+// LIGHT BLUE 900
+$blue_dull: #0277BD;
+
+// ORANGE
+// ORANGE 700
+$orange: #F57C00;
+// ORANGE 300
+$orange_light: #FFB74D;
+// ORANGE 900
+$orange_dull: #E65100;
+
+// REDS
+// RED 700
+$red: #D32F2F;
+// RED 200
+$red_light: #EF9A9A;
+
+// GREENS
+// GREEN 700
+$green: #388E3C;
+// GREEN 200
+$green_light: #A5D6A7;
+
+// CARDS
+$border_radius: 2px;
+
+$shadow1: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);;
+$shadow2: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+$shadow3: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+$shadow4: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+$shadow5: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+
+// PANEL
+$panel_transition_closing: visibility 0s 0.5s;
+$panel_transition_opening: visibility 0s 0s;
+$panel_overlay_transition: background 0.3s 0.3s;
+
+$panel_width_default: 250px;
+$panel_width_large: 250px;
+$panel_width_medium: 250px;
+
+
+// SCREEN SIZES
+$large_screen: 1170px;
+$medium_screen: 768px;
+$small_screen: 360px;

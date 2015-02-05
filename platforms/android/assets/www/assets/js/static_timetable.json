@@ -1,0 +1,210 @@
+{
+    "cancel_ferry": {
+        "da": {
+            "-JdwmIpq7tJr7hUOH5qg": {
+                "date": "2014-12-26",
+                "time": "13:12"
+            },
+            "-Jxyz": {
+                "date": "2013-05-04",
+                "time": "23:59"
+            }
+        },
+        "db": {
+            "-JdwzGrRO_Oj64jZRS6d": {
+                "date": "2014-12-24",
+                "time": "14:30"
+            },
+            "-Je7FXHfOw0S7gPhy5D4": {
+                "date": "2014-12-27",
+                "time": "17:45"
+            }
+        }
+    },
+    "extra_ferry": {
+        "da": {
+            "-Jdwmb0OB3-JT2bcjIEs": {
+                "date": "2014-12-25",
+                "time": "18:00"
+            },
+            "-Je786Fl7DCKbZV-KMaP": {
+                "date": "2014-12-27",
+                "time": "12:30"
+            }
+        },
+        "db": {
+            "-Jdwmdv4XGq48T4vDj-x": {
+                "date": "2014-12-26",
+                "time": "19:00"
+            }
+        }
+    },
+    "summer_da": {
+        "weekday": {
+            "-Jdh0aC0b3ufcksYTdgF": {
+                "time": "07:45"
+            },
+            "-JeFjGicCasV74iz3pQM": {
+                "time": "09:15"
+            },
+            "-JeFjIu1ZkiwBbyq01X-": {
+                "time": "10:15"
+            },
+            "-JeFjKwtB-TnYzauqfQa": {
+                "time": "13:15"
+            },
+            "-JeFjNa5NSLhdLSPdkzI": {
+                "time": "15:20"
+            },
+            "-JeFjRLoA3oELtU4C9YP": {
+                "time": "18:00"
+            },
+            "-JeGAKQWccSOcwWG6aw6": {
+                "time": "17:00"
+            }
+        },
+        "weekend": {
+            "-JeFjUnvqHRjN2VSdw1_": {
+                "time": "10:15"
+            },
+            "-JeFjWHij-MPV_b6TcdC": {
+                "time": "12:00"
+            },
+            "-JeFjYctbmnT5VclcpLP": {
+                "time": "13:15"
+            },
+            "-JeFjZkAcdgNfFb2wy3G": {
+                "time": "15:00"
+            },
+            "-JeFjb-Sjgpbj2re55qb": {
+                "time": "17:00"
+            }
+        }
+    },
+    "summer_db": {
+        "weekday": {
+            "-JeFjjLtzofwMPcgnOsj": {
+                "time": "08:45"
+            },
+            "-JeFjk5g6aranVPN2pUE": {
+                "time": "09:45"
+            },
+            "-JeFjl3zUMJfXs3E4V_I": {
+                "time": "12:45"
+            },
+            "-JeFjmuAtvLvO8QdRL5r": {
+                "time": "14:30"
+            },
+            "-JeFjo__FuV4XO-AdOAT": {
+                "time": "16:30"
+            },
+            "-JeFjpDMvr07CJrnhVe9": {
+                "time": "17:30"
+            },
+            "-JeFjqBMby4Vyr9fV4NI": {
+                "time": "18:30"
+            }
+        },
+        "weekend": {
+            "-JeFkBZzPq4zTRk-J4xd": {
+                "time": "11:30"
+            },
+            "-JeFkD4fgwyHe5czwswe": {
+                "time": "12:45"
+            },
+            "-JeFkELE6myyW697Eh-m": {
+                "time": "14:30"
+            },
+            "-JeFkFXtcizrcfzAbf0-": {
+                "time": "16:30"
+            },
+            "-JeFkGXbNyhlvAPVn4ND": {
+                "time": "17:30"
+            }
+        }
+    },
+    "winter_da": {
+        "weekday": {
+            "-JeFkRg3V1rmhTuUM0Oq": {
+                "time": "07:45"
+            },
+            "-JeFkU0QiQAHKMJB91xz": {
+                "time": "09:15"
+            },
+            "-JeFkUmj9Kn5nisTMzSg": {
+                "time": "10:15"
+            },
+            "-JeFkVoAUkWTcvFIpjXf": {
+                "time": "13:15"
+            },
+            "-JeFkYYCgbT9lVxAGUQS": {
+                "time": "15:20"
+            },
+            "-JeFkbEXpFDiRzwcEIq5": {
+                "time": "17:00"
+            },
+            "-JeFkbv_5CqkIaKehNjM": {
+                "time": "18:00"
+            }
+        },
+        "weekend": {
+            "-JeFkfU0SpJzE7dxe6j8": {
+                "time": "10:15"
+            },
+            "-JeFkgvYuMjIapFLc6Nl": {
+                "time": "12:00"
+            },
+            "-JeFkiLqFlQfY_ya5Z87": {
+                "time": "13:15"
+            },
+            "-JeFkjmdlos9FZuodcOL": {
+                "time": "15:00"
+            },
+            "-JeFkl585X2DFhXnngTK": {
+                "time": "17:00"
+            }
+        }
+    },
+    "winter_db": {
+        "weekday": {
+            "-JeFks2hXP4Bta10tvxi": {
+                "time": "08:45"
+            },
+            "-JeFkt1CaQx6fPGV5x3p": {
+                "time": "09:45"
+            },
+            "-JeFku9TwdAtSh6hINDz": {
+                "time": "12:45"
+            },
+            "-JeFkvAOYGMTAefxNbdr": {
+                "time": "14:30"
+            },
+            "-JeFky5eQf1eGBwcQLm8": {
+                "time": "17:30"
+            },
+            "-JeFkyoovTPVKNRqEINm": {
+                "time": "18:30"
+            },
+            "-JeGKT5IY1AujBW9VmSk": {
+                "time": "16:30"
+            }
+        },
+        "weekend": {
+            "-JeFl0MOBoQU8JnaEHFl": {
+                "time": "11:30"
+            },
+            "-JeFl1SiK_lerfkRuDoR": {
+                "time": "12:45"
+            },
+            "-JeFl2kjNMdkVuIyD5L7": {
+                "time": "14:30"
+            },
+            "-JeFl3p_t5A1N9P7htto": {
+                "time": "16:30"
+            },
+            "-JeFl4OSXvtLj5tzp_hY": {
+                "time": "17:30"
+            }
+        }
+    }
+}

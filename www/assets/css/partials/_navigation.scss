@@ -1,0 +1,44 @@
+.nav_bar {
+	background: $blue;
+	color: $bkg_light;
+	margin: 0px;
+	// padding: 0.5em;
+	box-shadow: 0px 2px 2px $bkg_overlay;
+	position: fixed;
+	width: 100%;
+	height: 3.25em;
+	top: 0;
+    z-index: 1;
+	a {
+		color: $bkg_light;
+		font-size: 2em;
+		i {
+			font-size: 0.8em;
+			position: absolute;
+			top: 0.5em;
+			padding-left: 0.8em;
+			padding-right: 1em;
+		}
+		&.refresh-icon {
+			i {
+				float: right;
+				font-size: 0.8em;
+				position: absolute;
+				top: 0.5em;
+				right: 0.5em;
+				padding-left: 0.8em;
+				padding-right: 0em;
+			}
+		}
+	}
+	div {
+		position: absolute;
+		top: 0.7em;
+		left: 3.25em;
+		font-size: 1.3em;
+	}
+}
+
+.nav_bar_buffer {
+	margin-top: 4em;
+}

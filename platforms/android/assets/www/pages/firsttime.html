@@ -1,0 +1,106 @@
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <title>First Time</title>
+
+  <!-- CORDOVA NECESSITIES -->
+  <!-- <script type="text/javascript" charset="utf-8" src="cordova.js"></script>   -->
+
+  <!-- CSS  -->
+  <link href="../assets/css/gridism.css" type="text/css" rel="stylesheet"/>
+  <link href="../assets/css/waves.min.css" type="text/css" rel="stylesheet"/>
+  <link href="../assets/css/styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body class="first_time">
+
+<main class="wrap">
+
+<!-- LANGUAGE SETTINGS -->
+<div class="grid padded">
+  <div class="unit half align-center">
+    <img class="first_time_logo" src="../assets/img/arranmoreff_icon.png">  
+  </div>
+
+  <div style="height:50px"></div>
+  <div class="unit half card shadow1 plain first_settings">
+      <span class="settings_title blue_text">Language</span>
+      <div class='input'>
+        <input type='radio' id='radio1' name='language' class="english_radio" checked>
+        <label for="radio1">English</label>
+      </div>
+      <div class='input'>
+        <input type='radio' id='radio2' name='language'class="irish_radio" >
+        <label for="radio2">Irish</label>
+      </div>
+
+      <br>
+
+      <span class="settings_title blue_text">Time</span>
+      <div class='input'>
+        <input type='checkbox' id='displayDate' class="checkbox">
+        <label for="displayDate">Display Arranmore Local Time</label>
+      </div>
+  </div>
+
+</div>
+
+
+<!-- LANGUAGE SETTINGS -->
+<!-- <div class="grid padded">
+  <div class="unit whole card shadow1 plain">
+    <span class="settings_title">Language:</span>
+    <div class="unit whole card_noBottom plain no-margin">
+        <label class="radio">
+          <input id="radio1" type="radio" name="radios" class="english_radio" checked>
+          <span class="outer"><span class="inner"></span></span><span class="eng_lang">English</span> <br>
+        </label>
+        <hr>
+        <label class="radio">
+          <input id="radio2" type="radio" class="irish_radio" name="radios">
+          <span class="outer"><span class="inner"></span></span>Irish <br>
+        </label>
+    </div>
+  </div>
+</div> -->
+
+<!-- TIME SETTINGS -->
+<!-- <div class="grid padded">
+  <div class="unit whole card shadow1 plain">
+  <span class="settings_title">Time:</span>
+    <label class="checkbox_container">
+      <input type="checkbox" class="checkbox"> <span class="settings_text">Display Arranmore Local Time</span>
+    </label>
+  </div>
+</div> -->
+
+<!-- TESTING SETTINGS FROM RETRIEVAL -->
+<div class="grid padded">
+  <div class="unit whole card shadow1 plain">
+  <div id="testing_settings_lang_values"></div>
+  <div id="testing_settings_time_values"></div>
+  <div id="testing_settings_time_option"></div>
+  </div>
+</div>
+
+
+<div class="grid padded">
+  <div class="unit whole align-center">
+    <a href="../index.html" class="waves-effect waves-button waves-float btn_orange">Continue <i class="mdi-content-send"></i></a>
+  </div>
+</div>
+
+
+</main>
+
+  <!--  Scripts-->
+  <script src="../assets/js/firstTimeComplete.js"></script>
+  <script src="../assets/js/jquery-2.1.3.min.js"></script>
+  <script src="../assets/js/waves.min.js"></script>
+  <script src="../assets/js/arranmoreff_firsttime.js"></script>
+  <script type="text/javascript">
+      Waves.displayEffect();
+  </script>
+  
+  </body>
+</html>
